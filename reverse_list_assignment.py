@@ -5,8 +5,6 @@
 # "cutting mat"
 # "television"
 
-
-
 laura_things = ["sewing machine", "scissor", "cutting mat", "television"] 
 reversed_things = []
 for i in laura_things:

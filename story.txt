@@ -1,0 +1,1 @@
+Note: We've provided you with the first chapter of Alice's Adventure in Wonderland to give you some sample text to work with. this is also the text used in the tests
