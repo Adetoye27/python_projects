@@ -1,0 +1,8 @@
+2024-11-14 21:54:06 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 21:54:08 - ERROR - Error creating EC2 instance: An error occurred (VPCIdNotSpecified) when calling the RunInstances operation: No default VPC for this user. GroupName is only supported for EC2-Classic and default VPC.
+2024-11-14 21:54:08 - INFO - this is the end!!!
+2024-11-14 21:57:55 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 21:57:57 - INFO - this is the end!!!
+2024-11-14 22:16:22 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-14 22:16:24 - INFO - EC2 instance with InstanceType t3.micro and Amazon ami ID ami-0aa7d40eeae50c9a9 is created  
+2024-11-14 22:16:24 - INFO - The ec2 was created successfully
